@@ -1,106 +1,81 @@
 <div align="center">
 
-# Hi 👋, I'm Sushanth Kumar R
+# Hi 👋 I'm Sushanth Kumar R
 
-### AI Engineer • Data Analyst • Full Stack Developer • Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;Full+Stack+Developer+%F0%9F%92%BB;Building+FairSight+%E2%9A%96%EF%B8%8F;Building+Crop+Rescue+%F0%9F%8C%BE;Building+Green-Ledger+%F0%9F%8C%B1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Building+AI+that+People+Can+Trust.;Machine+Learning+%7C+Data+Analytics.;Creating+Real-World+Impact+Through+Technology.;Always+Learning.+Always+Building." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-🎓 B.E. Computer Engineering @ **SRM Easwari Engineering College**
+🎓 Computer Engineering Student @ SRM Easwari Engineering College
 
-📈 CGPA **9.03**
+📊 CGPA **9.03**
 
-🏆 1M1B Workplace Experience Winner
+🏆 Hackathon Winner
 
-🥇 Winner - Workplace Experience Hackathon
+🥇 Ideathon Winner
 
-🥇 Winner - Intra College Ideathon
+🌍 1M1B Workplace Experience
 
 👨‍💼 Club Service Chairman
 (Rotaract Club of SRM Easwari)
 
-⚡ Previously Professional Service Director
-
-💙 I love building products that combine
+🤖 Passionate about
 
 - Artificial Intelligence
+- Machine Learning
 - Data Analytics
+- Full Stack Development
 - Explainable AI
-- Sustainability
-- Human-Centered Design
 
 ---
 
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tensorflow" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postman" />
-</p>
-
----
-
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
 ## ⚖️ FairSight
-### AI Fairness & Explainability Platform
 
-✔ AI Bias Detection
+> AI Fairness & Explainability Platform
 
-✔ Glass Box Explainability
-
-✔ SHAP Analysis
-
-✔ Responsible AI
-
-✔ Human Review Workflow
+- Bias Detection
+- Glass Box Explainability
+- SHAP Analysis
+- AI Governance
 
 ---
 
 ## 🌾 Crop Rescue
-### AI Smart Agriculture Platform
 
-✔ Crop Damage Detection
+> AI Smart Agriculture Platform
 
-✔ AI Recommendations
-
-✔ Farmer Marketplace
-
-✔ Insurance Support
-
-✔ Carbon Credit Integration
+- Crop Damage Detection
+- AI Recommendations
+- Farmer Marketplace
+- Insurance Support
 
 ---
 
-## 🌱 Green Ledger
-### Carbon Intelligence Platform
+## 🌱 Green-Ledger
 
-✔ Supply Chain Tracking
+> Carbon Intelligence Platform
 
-✔ Sustainability Reporting
+- Supply Chain Tracking
+- Sustainability Reporting
+- AI Verification
 
-✔ AI Verification
+---
 
-✔ Carbon Emission Analysis
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,tensorflow,git,github,vscode,postman"/>
+
+</p>
 
 ---
 
@@ -110,7 +85,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sushanth-kumar-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sushanth-kumar-prog&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=sushanth-kumar-prog&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -122,25 +97,41 @@
 
 ---
 
-# 🏆 Achievements
+# 📈 Contribution Graph
 
-🥇 1M1B Workplace Experience Winner
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushanth-kumar-prog&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-🥇 Hackathon Winner
+---
 
-🥇 Ideathon Winner
+# 🏆 GitHub Trophies
 
-🎖 Club Service Chairman
+<p align="center">
 
-📚 CGPA 9.03
+<img src="https://github-profile-trophy.vercel.app/?username=sushanth-kumar-prog&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🏅 Achievements
+
+🥇 Winner - Workplace Experience Hackathon
+
+🥇 Winner - Intra College Ideathon
+
+🌍 1M1B Workplace Experience
+
+👨‍💼 Club Service Chairman
+
+📈 CGPA 9.03
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/sushanth-kumar-r">
+<a href="https://www.linkedin.com/in/sushanth-kumar-r">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -154,8 +145,16 @@
 
 <div align="center">
 
-### 💡 "Technology becomes meaningful when it creates opportunities, builds trust, and solves real-world problems."
-
-⭐ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=sushanth-kumar-prog&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### 💡 *"Building technology that is intelligent, transparent, and impactful."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
